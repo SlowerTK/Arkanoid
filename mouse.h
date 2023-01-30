@@ -12,8 +12,7 @@ public:
         rect.w = 25;
         rect.h = 25;
         point.w = 1;
-        point.h = 1;      
-        SDL_ShowCursor(false);
+        point.h = 1;
     }
     
     void update(){
